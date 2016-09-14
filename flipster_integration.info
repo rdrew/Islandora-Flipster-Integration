@@ -14,4 +14,4 @@ features_exclude[dependencies][ctools] = ctools
 
 stylesheets[all][] = assets/jquery-flipster-master/dist/jquery.flipster.min.css
 scripts[] = assets/jquery-flipster-master/dist/jquery.flipster.min.js
-
+scripts[] = assets/flipster_init.js
