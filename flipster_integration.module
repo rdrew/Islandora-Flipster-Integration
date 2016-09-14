@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Flipster Integration feature.
+ */
+
+include_once 'flipster_integration.features.inc';
